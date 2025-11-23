@@ -1,6 +1,6 @@
 # CoderDojo Zottegem: Lego League Challenge Code
 
-![](./docs/resources/coder-dojo.png)
+![CoderDojo logo](./docs/resources/coder-dojo.png)
 
 ---
 
