@@ -1,4 +1,4 @@
-# CoderDojo Zottemgem: Lego League Challenge Code
+# CoderDojo Zottegem: Lego League Challenge Code
 
 ![](./docs/resources/coder-dojo.png)
 
